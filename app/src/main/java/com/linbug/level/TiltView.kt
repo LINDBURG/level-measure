@@ -1,10 +1,8 @@
 package com.linbug.level
 
 import android.content.Context
-import android.graphics.Canvas
 import android.hardware.SensorEvent
 import android.util.AttributeSet
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.animation.Animation
 import android.view.animation.TranslateAnimation
@@ -18,13 +16,6 @@ class TiltView @JvmOverloads constructor(
         defStyle: Int = 0
     ) : ConstraintLayout(context, attrs, defStyle) {
     private var binding: ViewTiltBinding
-
-    private var cX: Float = 0f
-    private var cY: Float = 0f
-    private var hX: Float = 0f
-    private var hY: Float = 0f
-    private var vX: Float = 0f
-    private var vY: Float = 0f
 
     private var centerAnim: Animation? = null
     private var horizontalAnim: Animation? = null
