@@ -4,7 +4,7 @@ measure level
 
 
 App link
-https://play.google.com/store/apps/details?id=com.linbug.level![Uploading Ad free  - Level Calculator.png…]()
+https://play.google.com/store/apps/details?id=com.linbug.level
 
 
 ![Screenshot_1648985965](https://user-images.githubusercontent.com/18083080/161426501-839d6d8b-f2da-4e76-9ded-557c531c6aa3.png)
