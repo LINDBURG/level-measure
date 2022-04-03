@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">level</string>
+    <string name="center_image">center image</string>
+    <string name="horizontal_ruler">horizontal_ruler</string>
+    <string name="vertical_ruler">vertical_ruler</string>
+    <string name="center_bubble">center_bubble</string>
+    <string name="horizontal_bubble">horizontal_bubble</string>
+    <string name="vertical_bubble">vertical_bubble</string>
 </resources>
